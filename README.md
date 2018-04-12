@@ -3,9 +3,9 @@ Small express &amp; react progressive web app based on create-react-app. Fetches
 
 =========
 
-Backend : Express - Oracle
-Frontend: React & PWA & LocalStorage (Based on create-react-app) 
-They both run together using concurrently, and the front sets the back as a proxy. 
+* Backend : Express - Oracle
+* Frontend: React & PWA & LocalStorage (Based on create-react-app) 
+* They both run together using concurrently, and the front sets the back as a proxy. 
 
 Pre-requisites
 --------------------
