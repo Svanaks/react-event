@@ -34,5 +34,5 @@ localhost:5000/api/events and localhost:5000/api/events/:id) and the client on p
 6. To build the application, `npm run build`. 
 7. To start production, `npm start` after you made the build and then go on localhost:5000
 
-If you just want to see how it looks, you can see some pictures and a description on my personal website: `http://williambloch.com`
+If you just want to see how it looks, you can see some pictures and a description on my [personal website](http://williambloch.com)
 
