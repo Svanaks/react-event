@@ -1,7 +1,8 @@
 # react-event
-Small express &amp; react progressive web app based on create-react-app. Fetches events from an oracle Database and displays them (even if offline).
+Small express &amp; react progressive web app based on create-react-app. Fetches events from an oracle Database and displays them (even if offline). 
 
 =========
+
 Backend : Express - Oracle
 Frontend: React & PWA & LocalStorage (Based on create-react-app) 
 They both run together using concurrently, and the front sets the back as a proxy. 
